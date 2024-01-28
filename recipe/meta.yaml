@@ -1,5 +1,5 @@
 {% set name = "flask-muck" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/flask_muck-{{ version }}.tar.gz
-  sha256: f0bc5d12894899925fd68dd0d7881b9b7543b031329875f91e1f0ab71675a729
+  sha256: b4616dddff641f66b8a0289764fcfb2cacb273c9f5f12c69417e408374bb0f9b
 
 build:
   noarch: python
