@@ -25,7 +25,7 @@ requirements:
     - webargs >=8.0.0
     - marshmallow >=3.15.0
     - pydantic >=2.0
-    - apispec >= 6.3.0
+    - apispec >=6.3.0
     - rich >=13.7.0
     - pyhumps >=3.8.0
     - flasgger >=0.9.7.1
