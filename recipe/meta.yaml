@@ -26,7 +26,7 @@ requirements:
     - webargs >=8.3.0,<9.0.0
     - marshmallow >=3.21.1,<3.22.0
     - mkdocstrings >=0.24.0,<0.25.0
-    - pydantic >=2.5.2,<2.6.0,
+    - pydantic >=2.5.2,<2.6.0
     - apispec >=6.3.0,<7.0.0
     - rich >=13.7.0,<14.0.0
     - pyhumps >=3.8.0,<4.0.0
